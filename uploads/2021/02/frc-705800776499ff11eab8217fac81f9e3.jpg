@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>分组</title>
+    <desc>Created with Sketch.</desc>
+    <g id="详情页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="帖子详情页+附件" transform="translate(-32.000000, -1057.000000)">
+            <g id="分组-3" transform="translate(32.000000, 1057.000000)">
+                <g id="分组-2-copy">
+                    <circle id="Oval-3" fill="#FFAF40" cx="22" cy="22" r="22"></circle>
+                    <g id="分组" transform="translate(14.500000, 12.500000)" fill-rule="nonzero">
+                        <polygon id="矩形" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="9 0 15 6 9 6"></polygon>
+                        <path d="M15,6.05983358 L15,18 C15,18.5522847 14.5522847,19 14,19 L1,19 C0.44771525,19 9.55813795e-16,18.5522847 8.8817842e-16,18 L8.8817842e-16,1 C8.20543045e-16,0.44771525 0.44771525,7.20688042e-15 1,7.10542736e-15 L8.99110125,7.10542736e-15 L15,6.05983358 Z" id="路径" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M10.68,10.0463415 L7.09,10.0463415 L5.917,9.02012195 C5.902,9.00731707 5.882,9 5.862,9 L3.32,9 C3.143,9 3,9.13079268 3,9.29268293 L3,14.7073171 C3,14.8692073 3.143,15 3.32,15 L10.68,15 C10.857,15 11,14.8692073 11,14.7073171 L11,10.3390244 C11,10.1771341 10.857,10.0463415 10.68,10.0463415 Z M9.8,13.1707317 L10.44,13.1707317 L10.44,10.8292683 L10.2560976,10.8292683 L10.1394146,11.352439 L9.8,11.352439 L9.8,13.1707317 Z" id="Shape-Copy" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
