@@ -1,0 +1,173 @@
+html{color:#000;background:#FFF;}   
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,   
+fieldset,input,textarea,p,blockquote,th,td {   
+margin:0;   
+padding:0;   
+}   
+table{   
+border-collapse:collapse;   
+border-spacing:0;   
+}   
+fieldset,img {   
+border:0;   
+}   
+address,caption,cite,code,dfn,em,strong,th,var {   
+font-style:normal;   
+font-weight:normal;   
+}   
+ol,ul {   
+list-style:none;   
+}   
+caption,th {   
+text-align:left;   
+}   
+h1,h2,h3,h4,h5,h6 {   
+font-size:100%;   
+font-weight:normal;   
+}   
+q:before,q:after {   
+content:'';   
+}   
+abbr,acronym { border:0;   
+}   
+@charset "utf-8";  
+*{  
+    margin: 0px;  
+    padding: 0px;  
+      
+}   
+a{  
+    text-decoration: none;  
+    color: #000000;  
+    font-size:15px;  
+    /*字体*/  
+}  
+li{  
+    list-style: none;  
+}  
+input,img{  
+    border: none;  
+}  
+.forms label {
+	display: block;
+.descr {
+	color: #999;
+	font-size: .85em;
+	line-height: 1.5em
+}
+div.descr {
+	margin: 4px 0
+}
+.columnar div.descr {
+	margin-bottom: 10px
+}
+.forms ul {
+	list-style: none;
+	margin-left:-30px}
+.forms ul li {
+	margin-bottom: 10px
+}
+.forms.columnar ul li {
+	margin-bottom: 15px
+}
+fieldset.liner {
+	border: 0;
+	padding: 0
+}
+fieldset.liner legend {
+	padding: 0;
+	width: 100%;
+	padding-bottom: 12px
+}
+fieldset.liner legend span {
+	padding: 0;
+	padding-bottom: 8px;
+	border-bottom: 1px solid #eee;
+	display: block
+}
+.forms ul.multicolumn:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden
+}
+.forms ul.multicolumn li {
+	float: left;
+	margin-right: 12px;
+	margin-bottom: 0;
+	line-height: 1.8em
+}
+.forms ul.multicolumn li label {
+	margin-bottom: 0
+}
+.forms ul.multicolumn li.width-50 {
+	width: 48%;
+	margin-right: 2%
+}
+.forms ul.multicolumn li.width-33 {
+	width: 31%;
+	margin-right: 2%
+}
+.forms.columnar legend {
+	margin-bottom: 1em
+}
+.forms.columnar label {
+	float: left;
+	width: 150px;
+	text-align: left;
+	margin-right: 20px
+}
+.forms.columnar .push, .forms.columnar div.descr {
+	margin-left: 170px
+}
+.forms.columnar li fieldset label {
+	float: none;
+	width: auto;
+	text-align: left;
+	margin-right: 0
+}
+.forms.columnar li fieldset {
+	border: 0;
+	padding: 0;
+	margin: 0;
+	padding-left: 170px;
+	position: relative
+}
+.forms.columnar li fieldset section {
+	padding: 0;
+	position: absolute;
+	width: 150px;
+	text-align: right;
+	left: 0;
+	top: 0
+}
+.forms.columnar li fieldset section label {
+	float: none;
+	width: auto;
+	margin-right: 0;
+	text-align: right
+}
+.forms.columnar li fieldset div.descr {
+	margin-left: 0
+}
+.forms li.form-section {
+	font-weight: bold;
+	border-bottom: 1px solid #eee;
+	padding: 1.5em 0 .7em 0;
+	font-size: 1.1em;
+	margin-bottom: 1.5em
+}
+.columnar li.form-section {
+	padding-left: 170px
+}
+table.tableforms td {
+	font-size: 90%;
+	padding: 1px 10px 3px 0 !important;
+	border: 0
+}
+table.tableforms tr.labels td {
+	padding-top: .8em !important;
+	font-weight: bold
+}
+.push{ padding-top:10px}
